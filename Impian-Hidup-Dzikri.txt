@@ -13,3 +13,5 @@ Impian Hidup
 * Motor CBR
 - Membangun Mesjid
 - Kurban 
+* Sapi
+* Domba
